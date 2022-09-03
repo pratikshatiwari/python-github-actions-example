@@ -11,3 +11,4 @@ if __name__ == "__main__":
     app.run()
 
 
+--ignore F821
